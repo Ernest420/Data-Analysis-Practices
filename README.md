@@ -1,2 +1,2 @@
 # Data-Analysis-Practices
-University Projects
+University Project about Diabetes.
